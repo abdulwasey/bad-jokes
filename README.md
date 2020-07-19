@@ -1,2 +1,2 @@
 # bad-jokes
-Live Demo https://badjokes-abdul.herokuapp.com/
+Live Demo http://badjokes.abdulwasey.me/
